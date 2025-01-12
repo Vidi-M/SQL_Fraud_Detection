@@ -35,9 +35,9 @@ SQL: link to file from QuickDBD
 
 ## Data Engineering
 
-Using the ERD as a blueprint, I created a database schema for each of the tables and relationships. I specified data types, primary keys, foreign keys and other contraints defined in the ERD. I created the database schema with PostgreSQL and a [SQL query](SQL/schema.sql).
+Using the ERD as a blueprint, I designed a database schema detailing tables, relationships, data types, primary keys, foreign keys, and constraints. I implemented the schema with PostgreSQL using a [SQL query](SQL/schema.sql).
 
-After creating the the database schema, I populated the tables using the data from the corresponding CSV file using a [SQL query](SQL/populate_tables.sql).
+Afterward, I populated the tables with data from the CSV files using another [SQL query](SQL/populate_tables.sql).
 
 ---
 
