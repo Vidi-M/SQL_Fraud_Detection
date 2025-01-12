@@ -17,5 +17,22 @@ Accomplish three main tasks:
 
 ## Files
 
+### CSV Files
 ### Query Files
-  
+
+---
+
+## Data Modeling
+
+Created an Entity Relationship Diagram (ERD) by inspecting the provided CSV files using an online tool.
+
+TOOL: [Quick Database Diagrams]()
+SQL: link to file
+
+![image](https://github.com/user-attachments/assets/a733b704-031b-4e01-8995-3aa253cf650c)
+
+---
+
+## Data Engineering
+
+
