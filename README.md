@@ -7,7 +7,7 @@ Application of new SQL skills to analyze historical credit card transactions and
 
 Accomplish three main tasks:
 
-- [x] [**Data Modeling**](https://github.com/Vidi-M/SQL_Fraud_Detection/edit/main/README.md#data-modeling): Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
+- [x] [**Data Modeling**](https://github.com/Vidi-M/SQL_Fraud_Detection/main/README.md#data-modeling): Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
 
 - [x] **Data Engineering**: Create a database schema on PostgreSQL and populate your database from the CSV files provided.
 
